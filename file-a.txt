@@ -1,2 +1,5 @@
 A perfectly normal file.
-With two lines!
+Neat, a line in the middle.
+Another line here.
+With more than two lines!
+See also file b.
